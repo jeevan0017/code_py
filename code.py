@@ -8,3 +8,6 @@ print(diff)
 
 prod=a*b
 print(prod)
+
+list=["Fayeeq","Chandu","Vinay","Cashew","Shilpa","Paramesh"]
+print(list)
