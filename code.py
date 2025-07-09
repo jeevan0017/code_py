@@ -11,3 +11,6 @@ print(prod)
 
 list=["Fayeeq","Chandu","Vinay","Cashew","Shilpa","Paramesh"]
 print(list)
+
+tuple=("Jeevan",655.7,"Apple")
+print(tuple)
