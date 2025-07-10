@@ -19,3 +19,5 @@ stack=["Chandu",69,"mango"]
 print(stack)
 stack.append("vinay")
 print(stack)
+popped=stack.pop()
+print(popped)
