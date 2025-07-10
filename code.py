@@ -17,3 +17,5 @@ print(tuple)
 
 stack=["Chandu",69,"mango"]
 print(stack)
+stack.append("vinay")
+print(stack)
