@@ -14,3 +14,6 @@ print(list)
 
 tuple=("Jeevan",655.7,"Apple")
 print(tuple)
+
+stack=["Chandu",69,"mango"]
+print(stack)
