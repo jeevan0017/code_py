@@ -1,5 +1,5 @@
-a=3
-b=2
+a=5
+b=7
 sum=a+b
 print(sum)
 
@@ -23,3 +23,4 @@ popped=stack.pop()
 print(popped)
 size=len(stack)
 print(size)
+
