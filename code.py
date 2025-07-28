@@ -1,5 +1,5 @@
-a=3
-b=2
+a=5
+b=7
 sum=a+b
 print(sum)
 
@@ -15,11 +15,12 @@ print(list)
 tuple=("Jeevan",655.7,"Apple")
 print(tuple)
 
-stack=["Chandu",69,"mango"]
+stack=["Chandu",69,"Mango"]
 print(stack)
-stack.append("vinay")
+stack.append("Vinay")
 print(stack)
 popped=stack.pop()
 print(popped)
 size=len(stack)
 print(size)
+
