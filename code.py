@@ -15,9 +15,9 @@ print(list)
 tuple=("Jeevan",655.7,"Apple")
 print(tuple)
 
-stack=["Chandu",69,"mango"]
+stack=["Chandu",69,"Mango"]
 print(stack)
-stack.append("vinay")
+stack.append("Vinay")
 print(stack)
 popped=stack.pop()
 print(popped)
